@@ -12,6 +12,9 @@
         android:theme="@style/Theme.WorkInPara"
         tools:targetApi="31">
         <activity
+            android:name=".EasyLevelActivity"
+            android:exported="false" />
+        <activity
             android:name=".ChooseDifficultActivity"
             android:exported="false" />
         <activity
