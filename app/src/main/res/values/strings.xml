@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkInPara</string>
+    <string name="button">Button</string>
+    <string name="circle">circle</string>
+    <string name="Background">circleGoNext</string>
+    <string name="Circle">TODO</string>
+    <string name="Robot">TODO</string>
+</resources>
