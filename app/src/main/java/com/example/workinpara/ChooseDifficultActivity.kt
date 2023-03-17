@@ -1,5 +1,6 @@
 package com.example.workinpara
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -11,5 +12,9 @@ class ChooseDifficultActivity : AppCompatActivity() {
     }
     fun backToChooseLang(view: View){
         finish()
+    }
+    fun goToEasyLevel(view : View){
+        var i= Intent(this, EasyLevelActivity::class.java)
+        startActivity(i)
     }
 }
