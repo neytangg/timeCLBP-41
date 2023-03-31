@@ -8,22 +8,20 @@ import com.example.workinpara.databinding.ActivityMainBinding
 import com.example.workinpara.databinding.ActivityMainBinding.inflate
 
 class MainActivity : AppCompatActivity() {
-    lateinit var bindingM : ActivityMainBinding
+    private lateinit var bindingM : ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         bindingM=inflate(layoutInflater)
         setContentView(bindingM.root)
     }
 
-    fun goToChooseLang(view : View){
-        var i=Intent(this, ChooseLangActivity::class.java)
+    fun goToChooseLang(@Suppress("UNUSED_PARAMETER")view : View){
+        val i=Intent(this, ChooseLangActivity::class.java)
         startActivity(i)
     }
 
-    fun goToDescription(view : View){
-        var i=Intent(this, DescriptionActivity::class.java)
+    fun goToDescription(@Suppress("UNUSED_PARAMETER")view : View){
+        val i=Intent(this, DescriptionActivity::class.java)
         startActivity(i)
     }
-
-
 }
