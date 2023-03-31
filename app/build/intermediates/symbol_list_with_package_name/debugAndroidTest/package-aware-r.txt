@@ -1,0 +1,3 @@
+com.example.workinpara.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

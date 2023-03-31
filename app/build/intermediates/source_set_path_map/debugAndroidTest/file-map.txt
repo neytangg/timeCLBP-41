@@ -1,0 +1,7 @@
+com.example.workinpara.test.app-core-1.5.0-0 C:\Users\pavon\.gradle\caches\transforms-3\8eb76e3d026810e5e744d9e208a876de\transformed\core-1.5.0\res
+com.example.workinpara.test.app-annotation-experimental-1.3.0-1 C:\Users\pavon\.gradle\caches\transforms-3\cc01c94b8b0463495db88c900f4271bc\transformed\annotation-experimental-1.3.0\res
+com.example.workinpara.test.app-androidTest-2 C:\Users\pavon\AndroidStudioProjects\test 01\app\build\generated\res\resValues\androidTest\debug
+com.example.workinpara.test.app-androidTest-3 C:\Users\pavon\AndroidStudioProjects\test 01\app\build\generated\res\rs\androidTest\debug
+com.example.workinpara.test.app-mergeDebugAndroidTestResources-4 C:\Users\pavon\AndroidStudioProjects\test 01\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.workinpara.test.app-mergeDebugAndroidTestResources-5 C:\Users\pavon\AndroidStudioProjects\test 01\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.workinpara.test.app-merged_res-6 C:\Users\pavon\AndroidStudioProjects\test 01\app\build\intermediates\merged_res\debugAndroidTest
